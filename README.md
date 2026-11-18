@@ -1,6 +1,6 @@
 # Ex.No.4-EXP 4 Generate the Prompt and evaluate that for following prompt patterns - Zero-shot Prompting - Few-shot Prompting - Chain of Thought - Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
-### DATE:
-### REGISTER NUMBER :
+### DATE: 18-11-2026
+### REGISTER NUMBER : 212224110007
 
 ### Aim:
 To write the prompt for the following prompt types and compare that with different AI tools and evaluate that using any one evaluation method (Rubrics): Zero-shot Prompting, Few-shot Prompting, Chain of Thought, Persona Pattern, Reverse Prompting, Graph Prompting, Active Prompting.
