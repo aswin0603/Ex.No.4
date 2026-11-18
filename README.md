@@ -1,4 +1,4 @@
-# Ex.No.4-EXP 4 Generate the Prompt and evaluate that for following prompt patterns - Zero-shot Prompting - Few-shot Prompting - Chain of Thought - Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
+# Ex.No.4 - Generate the Prompt and evaluate that for following prompt patterns - Zero-shot Prompting - Few-shot Prompting - Chain of Thought - Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
 ### DATE: 18-11-2026
 ### REGISTER NUMBER : 212224110007
 
@@ -1619,5 +1619,3 @@ The seven prompt patterns were written for the IoT-Based Smart Manufacturing Aut
 | Google Gemini | 159 |
 | Claude | 166 |
 
-## Conclusion
-All three tools produced relevant, safety-aware responses for every pattern, and the totals are close. Different prompt patterns shaped the output in different ways: Few-Shot controlled the format, Chain-of-Thought controlled the order of reasoning, Persona controlled tone and depth, Reverse Prompting produced a reusable prompt, Graph Prompting produced a diagram, and Active Prompting started a conversation instead of giving an answer. Explicit structural requirements in the prompt (assumptions, named sections, safety limits) were the points where the tools differed most, so precise prompts matter more than the choice of tool. Because Active Prompting was recorded for one turn only and the evaluation uses a single evaluator and a single run, the scores indicate relative quality in this experiment and are not a general ranking.
